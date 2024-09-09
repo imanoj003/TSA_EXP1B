@@ -7,7 +7,6 @@
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on student performance data
 ### ALGORITHM:
-```
 1.Import the required packages like pandas and numpy
 2.Read the data using the pandas
 3.To remove any potential trends in the data
@@ -15,7 +14,7 @@ To perform regular differncing,seasonal adjustment and log transformatio on stud
 5.If the data contains seasonality, subtract a rolling mean
 6.Finally, check if the variables are stationary using the Augmented Dickey-Fuller (ADF) test
 7.Display the overall results.
-```
+
 
 ### PROGRAM:
 ```
